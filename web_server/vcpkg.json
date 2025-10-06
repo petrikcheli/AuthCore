@@ -2,6 +2,7 @@
   "dependencies": [
     "crow",
     "jwt-cpp",
-    "libsodium"
+    "libsodium",
+    "sqlite-modern-cpp"
   ]
 }
